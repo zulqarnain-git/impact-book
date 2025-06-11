@@ -1,6 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
+# Welcome to your impact book
 
 **URL**: 
 
